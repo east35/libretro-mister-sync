@@ -6,7 +6,7 @@ Tiny Docker container that keeps **`.sav`** and **`.srm`** files in sync within 
 
 It preserves timestamps to avoid ping-pong loops and ignores Syncthing temps/hidden files.
 
-> Supported consoles that use the same SAV↔SRM battery-save schema: 
+Supported consoles that use the same SAV↔SRM battery-save schema: 
 - Game Boy / Game Boy Color / Game Boy Advance
 - SNES (Super Nintendo)
 - Genesis / Mega Drive
